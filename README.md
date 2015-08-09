@@ -1,4 +1,4 @@
-### Well hello there!
+### Salutations ! This is a forking and branching test. The text below is from the original repository.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
